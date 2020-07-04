@@ -18,4 +18,6 @@ func main() {
 	codinggo.Program11()
 	codinggo.Program12()
 	codinggo.Program13()
+	codinggo.Program14()
+	codinggo.Program15()
 }
