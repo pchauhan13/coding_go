@@ -9,4 +9,5 @@ func main() {
 	codinggo.Program2()
 	codinggo.Program3()
 	codinggo.Program4()
+	codinggo.Program5()
 }
