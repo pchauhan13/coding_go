@@ -1,7 +1,10 @@
 package main
 
-import coding_go "coding_go/src"
+import (
+	codinggo "codinggo/src"
+)
 
 func main() {
-	coding_go.Program1()
+	codinggo.Program1()
+	codinggo.Program2()
 }

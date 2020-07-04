@@ -1,3 +1,3 @@
-module coding_go
+module codinggo
 
 go 1.14
