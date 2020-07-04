@@ -1,7 +1,7 @@
-package main
+package coding_go
 
 import "fmt"
 
-func main() {
+func Program1() {
 	fmt.Println("Hello, World")
 }
