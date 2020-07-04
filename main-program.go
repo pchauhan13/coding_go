@@ -10,4 +10,6 @@ func main() {
 	codinggo.Program3()
 	codinggo.Program4()
 	codinggo.Program5()
+	codinggo.Program6()
+	codinggo.Program7()
 }
