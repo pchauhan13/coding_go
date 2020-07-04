@@ -7,4 +7,5 @@ import (
 func main() {
 	codinggo.Program1()
 	codinggo.Program2()
+	codinggo.Program3()
 }
