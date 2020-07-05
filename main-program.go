@@ -40,4 +40,6 @@ func main() {
 	codinggo.Program33()
 	codinggo.Program34()
 	codinggo.Program35()
+	codinggo.Program36()
+	codinggo.Program37()
 }
